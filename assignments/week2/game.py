@@ -213,7 +213,7 @@ print("You made it! You reach the house and finally can take a rest.")
 time.sleep(1)
 print("Now get some well deserved sleep, because the next night is already coming")
 time.sleep(1)
-print("Thanks for playing!")
+print("Thanks for playing!!")
 
 
 
