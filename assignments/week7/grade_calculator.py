@@ -1,6 +1,9 @@
 from sys import argv
 import csv
 import random
+
+# Still unfinished. Will be reworked...
+
 # Step 1
 students = {}
 def read_csv(filename):
