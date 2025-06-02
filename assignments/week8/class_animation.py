@@ -74,7 +74,7 @@ pygame.init()
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
 # set the pygame window name
-pygame.display.set_caption('Gorilla')
+pygame.display.set_caption('Hungry Gorilla')
 
 # Create one dino object at a start location
 gorilla = Gorilla()
